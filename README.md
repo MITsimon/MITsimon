@@ -11,4 +11,5 @@
 <li>git/github可以做一些資料的上傳並了解基本概念</li>
 <li>javascript目前我自己需要加強的地方,基本的邏輯可以懂,大約看得懂一些簡單的程式碼</li>
 <li>vue.js現在大約了解過而已</li>
+  <li>RWD</li>
   </ul>
