@@ -7,9 +7,11 @@
 我目前學會的程度有<br>
 <ul>
 <li>html基本語法已經會了</li>
-<li>css可以做簡單的網頁切版並可以運用網路上的資源對網頁做互動</li>
-<li>git/github可以做一些資料的上傳並了解基本概念</li>
+<li>CSS/SASS可以做簡單的網頁切版並可以運用網路上的資源對網頁做互動</li>
+<li>git/github可以做一些資料的上傳並了解基本分支概念</li>
 <li>javascript目前我自己需要加強的地方,基本的邏輯可以懂,大約看得懂一些簡單的程式碼</li>
+<li>jquery會用網路資源程式碼套入網頁中並加以修改,看懂基本邏輯</li>
 <li>vue.js現在大約了解過而已</li>
-  <li>RWD</li>
+<li>RWD</li>
+<li>Bootstrap基本格線與排版</li>
   </ul>
